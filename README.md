@@ -13,14 +13,14 @@ Here you can find my personal projects, collaborative projects, and university p
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancaalvess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaalvess&layout=compact&langs_count=6&theme=tokyonight"/>
     <br>
-    <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React">
-    <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-    <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-    <img src="https://img.icons8.com/color/2x/python.png" width="120" alt="Python">
-    <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
-    <img src="https://img.icons8.com/color/2x/github.png" width="120" alt="GitHub">
-    <img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width="120" alt="VS Code">
+    <img src="https://img.icons8.com/color/2x/vue-js.png" width="80" alt="Vue.js">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="80" alt="React">
+    <img src="https://img.icons8.com/color/2x/html-5.png" width="80" alt="HTML5">
+    <img src="https://img.icons8.com/color/2x/css3.png" width="80" alt="CSS3">
+    <img src="https://img.icons8.com/color/2x/python.png" width="80" alt="Python">
+    <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="80" alt="JavaScript">
+    <img src="https://img.icons8.com/color/2x/github.png" width="80" alt="GitHub">
+    <img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width="80" alt="VS Code">
   </a>
 </table>
 
