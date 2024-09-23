@@ -10,7 +10,6 @@ Here you can find my personal projects, collaborative projects, and university p
 
 <table>
   <a href="https://github.com/biancaalvess">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancaalvess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaalvess&layout=compact&langs_count=6&theme=tokyonight"/>
     <br>
     <img src="https://img.icons8.com/color/2x/vue-js.png" width="80" alt="Vue.js">
