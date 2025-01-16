@@ -1,6 +1,6 @@
 # Hello, I'm Bianca! Welcome 👋
 
-I am a student of **Analysis and Development of Systems** (ADS), passionate about technology, and always eager for new challenges. I am currently looking for internship or junior developer opportunities to expand my skills and gain practical experience in the tech field.
+I am a front-end developer passionate about creating functional, intuitive, and visually appealing user interfaces. With a solid background in International Business and currently transitioning into Systems Analysis and Development, I have experience in building and optimizing web projects that meet user needs and exceed expectations.
 
 Here you can find my personal projects, collaborative projects, and university projects, developed using languages such as Java, Python, HTML, CSS, and JavaScript, and tools like GitHub and VS Code.
 
