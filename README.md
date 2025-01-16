@@ -10,7 +10,7 @@ Here you can find my personal projects, collaborative projects, and university p
 
 ## My Skills
 
-Aqui estão algumas das minhas habilidades em programação:
+Here are some of my programming skills:
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaalvess&layout=compact&langs_count=6&theme=tokyonight" alt="Top Linguagens"/>
