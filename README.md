@@ -8,7 +8,7 @@ Here you can find my personal projects, collaborative projects, and university p
   <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" alt="Gif" width="480" />
 </div>
 
-## Minhas Habilidades
+## My Skills
 
 Aqui estão algumas das minhas habilidades em programação:
 
@@ -17,7 +17,7 @@ Aqui estão algumas das minhas habilidades em programação:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancaalvess&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
 </div>
 
-## Ferramentas e Tecnologias
+## Tools and Technologies
 
 <div align="center">
   <img src="https://img.icons8.com/color/2x/vue-js.png" width="80" alt="Vue.js">
