@@ -2,7 +2,7 @@
 
 I am a front-end developer passionate about creating functional, intuitive, and visually appealing user interfaces. With a solid background in International Business and currently transitioning into Systems Analysis and Development, I have experience in building and optimizing web projects that meet user needs and exceed expectations.
 
-Here you can find my personal projects, collaborative projects, and university projects, developed using languages such as Java, Python, HTML, CSS, and JavaScript, and tools like GitHub and VS Code.
+Here you can find my personal projects, collaborative projects, and university projects, developed using languages such as Python, HTML, CSS, and JavaScript, and tools like GitHub and VS Code.
 
 <div align="center">
   <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" alt="Gif" width="480" />
