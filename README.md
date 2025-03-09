@@ -20,7 +20,6 @@ Here are some of my programming skills:
 ## Tools and Technologies
 
 <div align="center">
-  <img src="https://img.icons8.com/color/2x/react-native.png" width="80" alt="React">
   <img src="https://img.icons8.com/color/2x/typescript.png" width="80" alt="TypeScript">
   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="80" alt="Bootstrap">
   <img src="https://img.icons8.com/color/2x/tailwind_css.png" width="80" alt="Tailwind CSS">
