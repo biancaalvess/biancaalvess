@@ -20,7 +20,11 @@ Here are some of my programming skills:
 ## Tools and Technologies
 
 <div align="center">
-  <img src="https://img.icons8.com/color/2x/vue-js.png" width="80" alt="Vue.js">
+  <img src="https://img.icons8.com/color/2x/react-native.png" width="80" alt="React">
+  <img src="https://img.icons8.com/color/2x/typescript.png" width="80" alt="TypeScript">
+  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="80" alt="Bootstrap">
+  <img src="https://img.icons8.com/color/2x/tailwind_css.png" width="80" alt="Tailwind CSS">
+  <img src="https://img.icons8.com/color/2x/nodejs.png" width="80" alt="Node.js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="80" alt="React">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="80" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="80" alt="CSS3">
