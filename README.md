@@ -29,8 +29,6 @@ Here are some of my programming skills:
   <img src="https://img.icons8.com/color/2x/css3.png" width="80" alt="CSS3">
   <img src="https://img.icons8.com/color/2x/python.png" width="80" alt="Python">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="80" alt="JavaScript">
-  <img src="https://img.icons8.com/color/2x/github.png" width="80" alt="GitHub">
-  <img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width="80" alt="VS Code">
 </div>
 
 <div> 
