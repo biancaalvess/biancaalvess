@@ -39,6 +39,6 @@ Here are some of my programming skills:
 
 ###
 
-<img src="https://raw.githubusercontent.com/anabcodes/anabcodes/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/biancaalvess/biancaalvess/output/snake.svg" alt="Snake animation" />
 
 ###
