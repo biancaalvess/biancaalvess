@@ -15,7 +15,15 @@ Here are some of my programming skills:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancaalvess&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
 </div>
 
-## Tools and Technologies
+## 🎯 Tech Stack 
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+## Technologies
 
 <div align="center">
   <img src="https://img.icons8.com/color/2x/typescript.png" width="80" alt="TypeScript">
