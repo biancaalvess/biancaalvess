@@ -58,4 +58,9 @@ Let’s build something amazing together! Reach out via:
   <img src="https://raw.githubusercontent.com/biancaalvess/biancaalvess/output/snake.svg" alt="Snake Animation" />
 </div>
 
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=biancaalvess&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Visitor Badge" />
+</div>
+
 ---
