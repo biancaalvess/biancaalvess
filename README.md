@@ -1,6 +1,6 @@
 # Hello, I'm Bianca! Welcome 👋
 
-I'm a front-end developer passionate about creating intuitive, functional, and visually appealing interfaces. My focus is to develop efficient and responsive applications, always aligned with the best web development practices.
+I'm a fullstack developer passionate about creating intuitive, functional, and visually appealing interfaces. My focus is to develop efficient and responsive applications, always aligned with the best web development practices.
 
 <div align="center">
   <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" alt="Gif" width="480" />
