@@ -6,16 +6,6 @@ I'm a fullstack developer passionate about creating intuitive, functional, and v
   <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" alt="Gif" width="480" />
 </div>
 
-
-##  My Skills
-
-Dive into my core programming languages and expertise, honed through projects and practice. 
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaalvess&layout=compact&langs_count=6&theme=radical&hide_border=true&card_width=450" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancaalvess&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
-
 ---
 
 ##  Technologies
