@@ -3,7 +3,7 @@
 I'm a fullstack developer passionate about creating intuitive, functional, and visually appealing interfaces. My focus is to develop efficient and responsive applications, always aligned with the best web development practices.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" alt="Gif" width="480" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9sYnNoeWZ4cWNtdW5pbGxkc3Zsb2x1N2U0anJ2bzN1Zmx0c3g3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S601SPRAnC7iIzYOqG/giphy.gif" />
 </div>
 
 ---
